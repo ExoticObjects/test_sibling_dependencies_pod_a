@@ -5,30 +5,30 @@
       <sourceFolder url="file://$MODULE_DIR$/../test_sibling_dependencies_pod_a.podspec" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../README.md" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../LICENSE" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/test_sibling_dependencies_pod_a/Main.storyboard" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test_sibling_dependencies_pod_a/EOViewController.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/test_sibling_dependencies_pod_a/EOViewController.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test_sibling_dependencies_pod_a/main.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/test_sibling_dependencies_pod_a/en.lproj/InfoPlist.strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_sibling_dependencies_pod_a/EOAppDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_sibling_dependencies_pod_a/Main.storyboard" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test_sibling_dependencies_pod_a/Images.xcassets" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test_sibling_dependencies_pod_a/test_sibling_dependencies_pod_a-Info.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test_sibling_dependencies_pod_a/EOAppDelegate.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_sibling_dependencies_pod_a/en.lproj/InfoPlist.strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test_sibling_dependencies_pod_a/test_sibling_dependencies_pod_a-Prefix.pch" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/test_sibling_dependencies_pod_a/EOAppDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_sibling_dependencies_pod_a/EOViewController.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Podfile" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tests/Tests.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tests/Tests-Prefix.pch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Tests/Tests-Info.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Tests/en.lproj/InfoPlist.strings" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Tests/Tests-Prefix.pch" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Tests/Tests.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Example/Pods-test_sibling_dependencies_pod_a_Example-acknowledgements.markdown" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Example/Pods-test_sibling_dependencies_pod_a_Example.release.xcconfig" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Example/Pods-test_sibling_dependencies_pod_a_Example-acknowledgements.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Example/Pods-test_sibling_dependencies_pod_a_Example-resources.sh" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Example/Pods-test_sibling_dependencies_pod_a_Example.modulemap" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Example/Pods-test_sibling_dependencies_pod_a_Example.debug.xcconfig" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Example/Pods-test_sibling_dependencies_pod_a_Example-dummy.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Example/Pods-test_sibling_dependencies_pod_a_Example-frameworks.sh" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Example/Pods-test_sibling_dependencies_pod_a_Example-resources.sh" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Example/Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Example/Pods-test_sibling_dependencies_pod_a_Example-acknowledgements.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Example/Pods-test_sibling_dependencies_pod_a_Example-umbrella.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/test_sibling_dependencies_pod_a/test_sibling_dependencies_pod_a.modulemap" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/test_sibling_dependencies_pod_a/test_sibling_dependencies_pod_a.xcconfig" isTestSource="false" />
@@ -38,21 +38,23 @@
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/test_sibling_dependencies_pod_a/test_sibling_dependencies_pod_a-prefix.pch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Tests/Pods-test_sibling_dependencies_pod_a_Tests.release.xcconfig" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Tests/Pods-test_sibling_dependencies_pod_a_Tests-acknowledgements.plist" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Tests/Pods-test_sibling_dependencies_pod_a_Tests-resources.sh" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Tests/Pods-test_sibling_dependencies_pod_a_Tests-acknowledgements.markdown" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Tests/Pods-test_sibling_dependencies_pod_a_Tests-dummy.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Tests/Pods-test_sibling_dependencies_pod_a_Tests-frameworks.sh" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Tests/Pods-test_sibling_dependencies_pod_a_Tests.modulemap" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Tests/Info.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Tests/Pods-test_sibling_dependencies_pod_a_Tests.debug.xcconfig" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Tests/Pods-test_sibling_dependencies_pod_a_Tests.modulemap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Tests/Pods-test_sibling_dependencies_pod_a_Tests-resources.sh" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-test_sibling_dependencies_pod_a_Tests/Pods-test_sibling_dependencies_pod_a_Tests-umbrella.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../Pod/Classes/PodAHelper.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../Pod/Classes/ReplaceMe.m" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../Pod/Classes/PodAHelper.m" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
       <library name="Header Search Paths">
         <CLASSES>
+          <root url="file://$MODULE_DIR$/Pods/Headers/Private" />
           <root url="file:///Applications/Xcode-beta.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers" />
           <root url="file:///Applications/Xcode-beta.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/DTPerformanceSession.framework/Headers" />
           <root url="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers" />
@@ -144,6 +146,7 @@
           <root url="file:///Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1" />
         </CLASSES>
         <SOURCES>
+          <root url="file://$MODULE_DIR$/Pods/Headers/Private" />
           <root url="file:///Applications/Xcode-beta.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers" />
           <root url="file:///Applications/Xcode-beta.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/DTPerformanceSession.framework/Headers" />
           <root url="file:///Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers" />
