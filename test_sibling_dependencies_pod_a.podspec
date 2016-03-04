@@ -1,4 +1,4 @@
-Pod::Spec.new do |s| # build framework using: pod package test_sibling_dependencies_pod_a.podspec --embedded --force --verbose
+Pod::Spec.new do |s| # build framework using: pod package test_sibling_dependencies_pod_a.podspec --embedded --force --verbose --no-mangle
   
   s.name             = "test_sibling_dependencies_pod_a"
   s.version          = "0.0.0"
