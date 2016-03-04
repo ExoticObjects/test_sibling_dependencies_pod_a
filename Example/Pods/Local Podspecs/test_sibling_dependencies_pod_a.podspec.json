@@ -1,25 +1,19 @@
 {
   "name": "test_sibling_dependencies_pod_a",
-  "version": "0.1.0",
-  "summary": "A short description of test_sibling_dependencies_pod_a.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/test_sibling_dependencies_pod_a",
+  "version": "0.0.0",
+  "summary": "CocoaPods documentation could be improved...",
+  "description": "Pod description. It's a pod",
+  "homepage": "https://github.com/ExoticObjects/test_sibling_dependencies_pod_a",
   "license": "MIT",
   "authors": {
     "Exotic Objects": "jim@exoticobjects.com"
   },
-  "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/test_sibling_dependencies_pod_a.git",
-    "tag": "0.1.0"
-  },
   "platforms": {
-    "ios": "7.0"
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/ExoticObjects/test_sibling_dependencies_pod_a.git"
   },
   "requires_arc": true,
-  "source_files": "Pod/Classes/**/*",
-  "resource_bundles": {
-    "test_sibling_dependencies_pod_a": [
-      "Pod/Assets/*.png"
-    ]
-  }
+  "source_files": "Pod/Classes/**/*"
 }
