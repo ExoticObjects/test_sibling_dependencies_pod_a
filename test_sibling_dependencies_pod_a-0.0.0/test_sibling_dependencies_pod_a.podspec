@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.license = 'MIT'
   s.authors = {"Exotic Objects"=>"jim@exoticobjects.com"}
   s.homepage = 'https://github.com/ExoticObjects/test_sibling_dependencies_pod_a'
-  s.description = 'Pod description. It's a pod'
+  s.description = "Pod description. It's a pod"
   s.requires_arc = true
   s.source = {}
 
